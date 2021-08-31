@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: elighidiu @ gmail .com 
 - ⚡ Fun fact: ...
 -->
-<table><tr><td width="50%">
+<table style="border:none"><tr style="border:none"><td style="border:none" width="50%">
 <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=elighidiu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></td>
-<td  width="50%"><img height="280em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elighidiu" /></td>
+<td style="border:none" width="50%"><img height="280em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elighidiu" /></td>
 </tr>
 </table>
 
