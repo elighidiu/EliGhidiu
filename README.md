@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: elighidiu @ gmail .com 
 - ⚡ Fun fact: ...
 -->
-
-<img height="180em" width="50%"  align="left" src="https://github-readme-stats.vercel.app/api?username=elighidiu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="280em" width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elighidiu" />
+<p float="left">
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=elighidiu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="280em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elighidiu" /></p>
 
