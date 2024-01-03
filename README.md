@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m @elighidiu
-- 👀 I’m interested in frontend technologies and JavaScript ecosystem
+- 👀 I’m interested in full-stack technologies
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: elighidiu@gmail.com 
  <img height="280em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elighidiu" />
